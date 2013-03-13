@@ -1,3 +1,4 @@
+template_url:  https://github.com/telegr-am/template-blue.git
 ## Welcome
 
 Welcome to your new Telegram site.  Check out the [Getting Started](/getting_started) page
