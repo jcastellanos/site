@@ -1,8 +1,9 @@
 template_url:  https://github.com/telegr-am/template-blue.git
-## Welcome
+## Home
 
-Welcome to your new Telegram site.  Check out the [Getting Started](/getting_started) page
-for information on how to set up your site.
+Bienvenidos al sitio personal de [Juan Carlos Castellanos](/perfil). 
+
+Este sitio esta bajo construcción.
 
 <span data-lift="if?extra_true=has_blog">Welcome to my blog.  Here are my most recent blog posts:</span>
 
